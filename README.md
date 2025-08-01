@@ -21,7 +21,7 @@
 
 ## 项目结构
 
-```
+```txt
 .
 ├── CMakeLists.txt      # CMake 构建配置
 ├── package.json        # Node.js 项目配置
@@ -76,7 +76,7 @@ node test.js
 
 预期输出：
 
-```
+```txt
 demo对象: Demo { instanceField: 2, add: [Function (anonymous)] }
 
 原型属性: 1
