@@ -184,3 +184,8 @@ ISC
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request 来改进这个模板项目。
+
+## 参考
+
+<https://github.com/cmake-js/cmake-js>
+<https://github.com/nodejs/node-addon-api>
